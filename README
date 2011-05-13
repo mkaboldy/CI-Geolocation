@@ -1,0 +1,11 @@
+CI-Geolocation
+
+Geolocation library (actually just a wrapper class) based on Maxmind's Geolite Country solution 
+see also: http://www.maxmind.com/app/geolitecountry
+project homepage: http://hungarosoft.com/projects/geolocation
+
+Version: 0.1.0
+Last	Modified:	5/13/2011
+Author: MiklosK (http://codeigniter.com/forums/member/155463/)
+License: GPL
+ 
